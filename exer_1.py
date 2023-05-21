@@ -1,4 +1,4 @@
-print('Bem vindo ao atacado do Guilherme Araujo Vicente')
+print('Bem vindo ao atacado do GexMex227')
 p_value = float(input('Entre com o valor do produto: '))
 quantidade = float(input('Entre com a quantidade do produto: '))
 
